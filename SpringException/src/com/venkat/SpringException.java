@@ -11,6 +11,7 @@ public String getEcptionmsg() {
 }
 public void setEcptionmsg(String ecptionmsg) {
 	this.ecptionmsg = ecptionmsg;
+	System.out.println("Testing");
 }
 
 }
